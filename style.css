@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: red;
+}
+
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    text-align: center;
+}
+
+#out{
+    font-size: 1.5rem;
+}
+
+#addBtn{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
